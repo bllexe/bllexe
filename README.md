@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java,Spring-Boot,Android,Angular,Shell-Scripting,Linux,TypeScript**
 
-- 📫 How to reach me **myfirstname.mylastname@outlook.com , bilalykt21@gmail.com**
+- 📫 How to reach me **bilalykt21@gmail.com**
 
 - 📄 Know about my experiences [https://bilal-yakut-social.vercel.app/](https://bilal-yakut-social.vercel.app/)
 
