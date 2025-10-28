@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Spring Cloud,Microservice,DevOps**
 
-- 📫 How to reach me **bilalykt21@gmail.com**
-
 - 📄 Know about my experiences [https://bilal-yakut-social.vercel.app/](https://bilal-yakut-social.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
